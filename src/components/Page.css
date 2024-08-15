@@ -1,0 +1,17 @@
+.page {
+    background-color: #e3c9ae;
+    color: #4c3d20;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    padding-top: 50px; /* Ensure this matches the height of your fixed tabs */
+    box-sizing: border-box;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }

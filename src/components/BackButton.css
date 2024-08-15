@@ -1,0 +1,26 @@
+.back-button {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  background-color: #e4a9a4;
+  position: fixed;
+  width: 100%;
+  bottom:0;
+  left:0;
+  /* Position at the bottom of the page */
+  z-index: 1000; /* Ensure it is above other content */
+}
+
+.back-link {
+  text-decoration: none;
+  color: #4c3d20;
+  font-size: 18px;
+  padding: 10px;
+  background-color: #e4a9a4;
+  border-radius: 100px;
+  transition: background-color 0.3s ease;
+}
+
+.back-link:hover {
+  background-color: #b1837f; /* Darker brown on hover */
+}

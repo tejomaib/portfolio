@@ -1,0 +1,51 @@
+.page {
+    background-color: rgb(202, 196, 154);
+    color: #e3826f;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .tabs {
+    display: flex;
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0; /* Ensure tabs are aligned to the left */
+    z-index: 1000;
+  }
+  
+  .tab {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: #4c3d20;
+    background-color: #e4a9a4;
+    transition: background-color 0.3s ease;
+  }
+  
+  .tab:hover {
+    background-color: #b1837f; /* Darker brown on hover */
+  }
+  
+  .content {
+    text-align: center;
+    padding-top: 70px; /* Ensure content starts below the fixed tabs */
+  }
+
+  .picture {
+    width: auto;
+    height:300px;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: white;
+    margin: 30px auto 50px auto; 
+    aspect-ratio: 1/1;
+    border: 8px solid #909b4b;
+  }
