@@ -6,10 +6,10 @@ function Home() {
   return (
     <div className="page home">
       <div className="tabs">
-            <a className="tab" href="/about">About Me</a>
-        <a className="tab" href="/resume">Resume</a>
-        <a className="tab" href="/projects">Projects</a>
-        <a className="tab" href="/contact">Contact Info</a>
+            <a className="tab" href="#/about">About Me</a>
+        <a className="tab" href="#/resume">Resume</a>
+        <a className="tab" href="#/projects">Projects</a>
+        <a className="tab" href="#/contact">Contact Info</a>
       </div>
       <div className="content">
         <div className="profile-picture"></div>
