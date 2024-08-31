@@ -45,7 +45,7 @@ function Resume() {
         </section>
         <section id="additional-info" className="resume-section">
           <h2>Additional Info</h2>
-          <p>Other Interests: Writing, Community Serivce, Photography, Singing, and Dancing</p>
+          <p>Other Interests: Writing, Community Service, Photography, Singing, and Dancing</p>
           <p>Skills: Organization, Communication, Perseverance, Commitment; Programming: Java, Python, JavaScript, HTML, CSS, C++, and React</p>
           <p>Languages: English, Telugu, and Spanish (Conversational), and Hindi (Conversational)</p>
         </section>
