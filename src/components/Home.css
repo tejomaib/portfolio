@@ -25,7 +25,7 @@
     padding: 10px;
     text-decoration: none;
     color: #f4f4f4;
-    background-color: #684c3b;
+    background-color: #684c3c;
     transition: background-color 0.3s ease;
   }
   
@@ -47,5 +47,5 @@
     background-color: white;
     margin: 30px auto 50px auto; 
     aspect-ratio: 1/1;
-    border: 8px solid #3b3937;
+    border: 8px solid #967f71;
   }
