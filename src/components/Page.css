@@ -14,5 +14,10 @@
 
   p {
     text-align: center;
+  }
+
+  p2 {
+    text-align: center;
     margin-left: 10vh;
+    margin-right: 10vh
   }
