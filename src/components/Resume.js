@@ -34,6 +34,10 @@ function Resume() {
           <p>Competitor in the Business Professionals of America Conference, August 2020 - May 2021</p>
           <p>Member in Coppell Varsity Choir, August 2019 - May 2023</p>
         </section>
+        <section id="relevant-coursework" className="resume-section">
+          <h2>Relevant Coursework</h2>
+          <p>Intro to Python, Digital Electronics (In Progess), Circuit Analysis (In Progress), Embedded Systems Development in C (In Progress), Program Design & Concepts (In Progress), Power Systems and Circuit Applications (Plan to Take), and Microcontroller Architecture (Plan to Take)</p>
+        </section>
         <section id="certifications" className="resume-section">
           <h2>Certifications</h2>
           <p>Microsoft Word Expert (Microsoft 365 Apps and Office 2019), January 2021</p>
