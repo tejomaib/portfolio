@@ -7,7 +7,7 @@ function Projects() {
     <div className="page">
       <BackButton /> {/* Include BackButton */}
       <h1>Projects</h1>
-      <p>***projects page still in progress***</p>
+      <p>PROJECTS PAGE STILL IN PROGRESS :)</p>
     </div>
   );
 }
