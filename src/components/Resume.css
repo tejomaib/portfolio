@@ -13,7 +13,7 @@
     top: 0;
     left: 0;
     bottom: 0;
-    background-color: #78655a;
+    background-color: #766256;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
   }
@@ -29,7 +29,7 @@
   }
   
   .sidebar ul li a {
-    color: #4c3d20;
+    color: #f4f4f4;
     text-decoration: none;
     display: block;
     padding: 10px;
