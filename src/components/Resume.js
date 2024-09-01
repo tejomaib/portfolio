@@ -6,7 +6,7 @@ function Resume() {
   return (
     <div className="resume-page">
       <BackButton /> {/* Include BackButton */}
-       {/* /* <div className="sidebar">
+      <div className="sidebar">
        <ul>
        <li><a href="#/education">Education</a></li>
         <li><a href="#/work-experience">Work Experience</a></li>
@@ -14,7 +14,7 @@ function Resume() {
          <li><a href="#/certifications">Certifications</a></li>
          <li><a href="#/additional-info">Additional Information</a></li>
        </ul>
-     </div> */}
+     </div>
       <div className="resume-content">
         <h1>Resume</h1>
         <section id="education" className="resume-section">
