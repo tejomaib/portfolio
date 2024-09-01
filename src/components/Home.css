@@ -1,5 +1,5 @@
 .page {
-    background-color: rgb(202, 196, 154);
+    background-color: #f4f4f4;
     color: #e3826f;
     min-height: 100vh;
     margin: 0;
@@ -24,13 +24,13 @@
     text-align: center;
     padding: 10px;
     text-decoration: none;
-    color: #4c3d20;
-    background-color: #e4a9a4;
+    color: #3b3937;
+    background-color: #967f71;
     transition: background-color 0.3s ease;
   }
   
   .tab:hover {
-    background-color: #b1837f; /* Darker brown on hover */
+    background-color: #67564c; /* Darker brown on hover */
   }
   
   .content {
@@ -47,5 +47,5 @@
     background-color: white;
     margin: 30px auto 50px auto; 
     aspect-ratio: 1/1;
-    border: 8px solid #909b4b;
+    border: 8px solid #3b3937;
   }
