@@ -8,11 +8,11 @@ function Resume() {
       <BackButton /> {/* Include BackButton */}
       <div className="sidebar">
        <ul>
-       <li><a href="#/education">Education</a></li>
-        <li><a href="#/work-experience">Work Experience</a></li>
-         <li><a href="#/activities">Activities</a></li>
-         <li><a href="#/certifications">Certifications</a></li>
-         <li><a href="#/additional-info">Additional Information</a></li>
+       <li><a href="#education">Education</a></li>
+        <li><a href="#work-experience">Work Experience</a></li>
+         <li><a href="#activities">Activities</a></li>
+         <li><a href="#certifications">Certifications</a></li>
+         <li><a href="#additional-info">Additional Information</a></li>
        </ul>
      </div>
       <div className="resume-content">
