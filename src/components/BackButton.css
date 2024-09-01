@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   padding: 0;
-  background-color: #e4a9a4;
+  background-color: #967f71;
   position: fixed;
   width: 100%;
   bottom:0;
@@ -16,11 +16,11 @@
   color: #4c3d20;
   font-size: 18px;
   padding: 10px;
-  background-color: #e4a9a4;
+  background-color: #967f71;
   border-radius: 100px;
   transition: background-color 0.3s ease;
 }
 
 .back-link:hover {
-  background-color: #b1837f; /* Darker brown on hover */
+  background-color: #68584d; /* Darker brown on hover */
 }

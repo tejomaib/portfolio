@@ -1,7 +1,7 @@
 .resume-page {
     display: flex;
     min-height: 100vh;
-    background-color: #e3c9ae;
+    background-color: #f4f4f4;
     color: #4c3d20;
     padding: 0;
     box-sizing: border-box;
@@ -13,7 +13,7 @@
     top: 0;
     left: 0;
     bottom: 0;
-    background-color: #909b4b;
+    background-color: #78655a;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
   }
@@ -38,7 +38,7 @@
   }
   
   .sidebar ul li a:hover {
-    background-color: #626932; /* Darker brown on hover */
+    background-color: #4b3f37; /* Darker brown on hover */
   }
   
   .resume-content {
@@ -52,7 +52,7 @@
   }
   
   .resume-section h2 {
-    border-bottom: 2px solid #e4a9a4;
+    border-bottom: 2px solid #4b3f37;
     padding-bottom: 10px;
   }
 
