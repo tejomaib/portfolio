@@ -25,9 +25,13 @@ function Resume() {
         <section id="work-experience" className="resume-section">
           <h2>Work Experience</h2>
           <p>Student Worker at KD College Prep, January 2022 - August 2023</p>
+          <p>Student Instructor at Raagaleena Dance Company, June 2017 - August 2020</p>
+          <p>Tutor at Vignana Vihara School, June 2017 - August 2024</p>
         </section>
         <section id="activities" className="resume-section">
           <h2>Activities</h2>
+          <p>Member in TAMU WIRED VEX U Robotics, August 2024 - Present</p>
+          <p>Member in The Institute of Electrical and Electronic Engineers, August 2024 - Present</p>
           <p>Public Relations Officer for the Society of Women Engineers, August 2023 - May 2024</p>
           <p>Social Media Officer for TAMU Hindu Youth for Unity, Virtue, and Action, August 2023 - May 2024</p>
           <p>Volunteer for UNICEF, August 2020 - May 2023</p>
