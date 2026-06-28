@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Typography, Box } from '@mui/material';
-import profile from './IMG_6977.jpg';
+import profile from './IMG_6977.jpeg';
 
 function Home() {
     return (

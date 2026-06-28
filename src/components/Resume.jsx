@@ -171,7 +171,7 @@ function Resume() {
                     <Typography variant="body1">Plan to Take</Typography>
                 </Box>
                  <Box display="flex" justifyContent="space-between">
-                    <Typography variant="body1">Embedded Real Time Software Development/Typography>
+                    <Typography variant="body1">Embedded Real Time Software Development</Typography>
                     <Typography variant="body1">Plan to Take</Typography>
                 </Box>
                 <Box display="flex" justifyContent="space-between">
