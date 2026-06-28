@@ -221,4 +221,19 @@ function Resume() {
                     Other Interests: Writing, Community Service, Photography, Reading, Singing, and Dancing
                 </Typography>
                 <Typography variant="body1">
-                    Skills: Organization
+                    Skills: Organization, Communication, Perseverance, Commitment;
+                </Typography>
+                <Typography>
+                CAD and Programming: Java, Python, Assembly, MATLAB, JavaScript, HTML, CSS, C++, Embedded C, SQL, and React
+                </Typography>
+                <Typography variant="body1">Languages: English, Telugu, Spanish (Conversational), and Hindi (Conversational)</Typography>
+                </Box>
+                <br></br>
+                <br></br>
+                
+            </section>
+        </Container>
+    );
+}
+
+export default Resume;
