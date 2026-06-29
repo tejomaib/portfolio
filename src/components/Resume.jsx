@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Typography, Box } from '@mui/material';
-
+ 
 function Resume() {
     return (
         <Container sx = {{mt:4}}>
