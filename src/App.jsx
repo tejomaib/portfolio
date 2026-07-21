@@ -23,6 +23,7 @@ function NavBar() {
               </Button>
               </Box>
               <Box sx = {{display: 'flex', gap: 3}}>
+              <Button sx = {{color:'#FAF1E9'}} component={Link} to="/">Home</Button>
               <Button sx = {{color:'#FAF1E9'}} component={Link} to="/about">About</Button>
                 <Button sx = {{color:'#FAF1E9'}} component={Link} to="/projects">Projects</Button>
                 <Button sx = {{color:'#FAF1E9'}} component={Link} to="/resume">Resume</Button>

@@ -31,10 +31,6 @@ function Resume() {
                 </Typography>
               </Box>
               <Box display="flex" justifyContent="space-between">
-                    <Typography variant="body1">Undergraduate Teaching Assistant at Texas A&M University</Typography>
-                    <Typography variant="body1">Aug 2026 - Present</Typography>
-                </Box>
-              <Box display="flex" justifyContent="space-between">
                     <Typography variant="body1">Embedded Software Intern at Analog Devices</Typography>
                     <Typography variant="body1">May 2026 - Aug 2026</Typography>
                 </Box>

@@ -31,7 +31,7 @@ function Home() {
                 Teju Buyyanapragada
             </Typography>
             <Typography variant="body1">
-                Junior at Texas A&M University
+                Senior at Texas A&M University
             </Typography>
         </Container>
     );
